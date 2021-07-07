@@ -1,0 +1,5 @@
+Ketikan seperti dibawah ini pada command prompt atau terminal tetapi harus diarahkan ke directory/folder lokasi jar ini
+
+java -jar "week5.jar" 
+
+
